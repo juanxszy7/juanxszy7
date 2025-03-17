@@ -14,7 +14,7 @@
 
 ## Contate-me
 
-- 📧 Email: juan.pabloalvez09@gmail.com (mailto:seuemail@dominio.com)
+- 📧 Email: juan.pabloalvez09@gmail.com
 
 ## Acompanhando meu progresso
 
