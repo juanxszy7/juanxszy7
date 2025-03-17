@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, Eu sou Juan! 👋
 
-<!--
-**juanxszy7/juanxszy7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+- 🎓 Estudante do curso técnico de Informática do Colégio Augustus.
+- 🌱 Atualmente aprendendo **HTML** e **CSS**.
+- 📍 Morador de **Sabará - MG**.
+- 🧑‍💻 Apaixonado por tecnologia e em constante aprendizado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## O que estou aprendendo
+
+- **HTML**: Estruturação de páginas web.
+- **CSS**: Estilização e layout de páginas web.
+
+## Contate-me
+
+- 📧 Email: juan.pabloalvez09@gmail.com (mailto:seuemail@dominio.com)
+
+## Acompanhando meu progresso
+
+Aqui, compartilho projetos e códigos que estou desenvolvendo enquanto aprendo mais sobre tecnologia. Fique à vontade para explorar e contribuir!
+
+---
+
+**"O conhecimento é a chave para o futuro!"**
