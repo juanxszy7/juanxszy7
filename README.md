@@ -11,6 +11,8 @@
 
 - **HTML**: Estruturação de páginas web.
 - **CSS**: Estilização e layout de páginas web.
+- **JS**: Interação com usuario
+- **PHP**: Conexão com banco de dados
 
 ## Contate-me
 
