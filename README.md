@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🎓 Estudante do curso técnico de Informática do Colégio Augustus.
-- 🌱 Atualmente aprendendo **HTML** e **CSS**.
+- 🌱 Atualmente aprendendo **HTML**, **CSS**, **JavaScript** e **PHP**.
 - 📍 Morador de **Sabará - MG**.
 - 🧑‍💻 Apaixonado por tecnologia e em constante aprendizado.
 
