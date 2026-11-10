@@ -50,12 +50,11 @@ Atualmente, estou direcionando meus estudos para o ecossistema **C# e .NET**, co
 
 ## 💼 Projetos
 
-### 🔹 Sistema de Reciclagem ( Em Desenvolvimento )
+### 🔹 Sistema de Reciclagem
 
 * API para gerenciamento de usuários, materiais e pontos de coleta
 * Registro de reciclagem com cálculo de impacto ambiental (CO₂)
 * Sistema de pontuação baseado em reciclagem
-* **Status:** Em desenvolvimento
 
 ### 🔹 API de Autenticação
 
